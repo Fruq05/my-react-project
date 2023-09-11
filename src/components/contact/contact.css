@@ -1,0 +1,30 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+}
+
+label {
+    font-weight: bold;
+}
+
+
+.ipt{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+}
+
+textarea {
+    height: 150px;
+}
+
+.sub{
+    background-color: blue;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+}
